@@ -1,1 +1,2 @@
-# zookeepr
+# Module Project: Zoo Keepr
+In this module, you’ll create a web server using the Express.js framework and add it to a front-end application that the local zoo is developing, called Zoo Keepr. The site’s data will live on the server you build so that anyone can access it without having to download it. You’ll also deploy your application to Heroku, a cloud application platform that allows you to deploy applications with servers to a webpage.
